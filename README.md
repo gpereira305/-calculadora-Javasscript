@@ -14,6 +14,8 @@ Esse projeto usa as seguintes tecnologias:
 * Javascript
 	
 ## Installation
+Clone esse repo e abra o arquivo HTML em seu navegar favorito.
+
 ![calculadora-javascript](https://user-images.githubusercontent.com/66249777/106068057-ac05ce80-60de-11eb-9a2a-1d84c8ecd3a9.gif)
  
 
