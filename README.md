@@ -3,9 +3,13 @@
 * [Technologies](#technologies)
 * [Installation](#Installation)
 * [License](#License)
+* [Demo](#Demo)
+
 
 ## General info
-Esse é um pojeto básico com as principais funçães de uma calculdora, em javascript orientafo a objetos, com data e horas no display e interface SVG.
+Esse é um pojeto básico desenvolvido através do curso oferecido pela Hcode utilizando javascript orientado a objetos com o intuito de oferecer uma base desse modo de desenvolver
+aplicações de alta performance e estáveis.
+Essa calculadora possui as principais funçães de uma calculdora real, som algumas funcionalidades extras tais como data e hora em tempo real monstrados no display.
 	
 ## Technologies
 Esse projeto usa as seguintes tecnologias:
@@ -14,8 +18,9 @@ Esse projeto usa as seguintes tecnologias:
 * Javascript
 	
 ## Installation
-Clone esse repo e abra o arquivo HTML em seu navegar favorito.
+Faça um clone desse repo e abra o arquivo HTML em seu navegar favorito.
 
+## Demo
 ![calculadora-javascript](https://user-images.githubusercontent.com/66249777/106068057-ac05ce80-60de-11eb-9a2a-1d84c8ecd3a9.gif)
  
 
