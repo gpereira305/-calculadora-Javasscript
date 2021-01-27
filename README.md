@@ -4,7 +4,7 @@
 * [Installation](#Installation)
 * [License](#License)
 
-## General i
+## General info
 Esse é um pojeto básico com as principais funçães de uma calculdora, em javascript orientafo a objetos, com data e horas no display e interface SVG.
 	
 ## Technologies
@@ -14,7 +14,7 @@ Esse projeto usa as seguintes tecnologias:
 * Javascript
 	
 ## Installation
-![](calculadora-javascript.gif)
+![calculadora-javascript](https://user-images.githubusercontent.com/66249777/106068057-ac05ce80-60de-11eb-9a2a-1d84c8ecd3a9.gif)
  
 
 ## License
