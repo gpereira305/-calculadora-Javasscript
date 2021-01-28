@@ -12,7 +12,7 @@ aplicações de alta performance e estáveis.
 Essa calculadora possui as principais funçães de uma calculdora real, som algumas funcionalidades extras tais como data e hora em tempo real monstrados no display.
 	
 ## Technologies
-Esse projeto usa as seguintes tecnologias:
+Esse projeto contém as seguintes tecnologias:
 * HTML 5
 * CSS 3 
 * Javascript
